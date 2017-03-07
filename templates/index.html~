@@ -10,7 +10,7 @@
 	<body>
 		<div>
   		  <h1>Hello, World! I'm Alexander and this is a picture of myself with my mom</h1>
-		  <img src="/static/face.jpg" alt="face">
+		  <img src="/static/face.jpg" alt="face" style="width:600px;height:556px;">
 		</div>
 	</body>
 </html>
