@@ -10,8 +10,7 @@
 	<body>
 		<div>
   			<h1>Hello, World! I'm Alexander and This is My Mother and I</h1>
-			<h2>Spectacular Mountain</h2>
-			<img src="face.jpg" alt="face" style="width:304px;height:228px;">
+			<img src="img/face.jpg" alt="face" style="width:304px;height:228px;">
 
 		</div>
 	</body>
