@@ -2,16 +2,15 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Hello, World! My name is Alexander and this is my face</title>
+		<title>Hello, World!</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	</head>
 	<body>
 		<div>
-  			<h1>Hello, World! I'm Alexander and this is a picture of myself with my mom</h1>
-			<img src="img/face.jpg" alt="face" style="width:304px;height:228px;">
-
+  		  <h1>Hello, World! I'm Alexander and this is a picture of myself with my mom</h1>
+		  <img src="/static/face.jpg" alt="face">
 		</div>
 	</body>
 </html>
